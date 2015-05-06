@@ -1,0 +1,19 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "some common modules",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "common"
+  ],
+  "author": {
+    "name": "jackson"
+  },
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "common@1.0.0",
+  "_shasum": "46549d8e84d5a033109f14016bf50030060cd18d",
+  "_from": "Common",
+  "_resolved": "file:Common"
+}
